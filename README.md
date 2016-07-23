@@ -8,18 +8,22 @@ This repository contains starter code for the Robot Maze 2 project in Udacity's 
 
 ## Overview
 
-Robot Maze is an iOS application where users direct a robot around a maze and to its final destination. There are multiple versions of Robot Maze, each corresponding to different objectives:
-
-- Robot-Maze-2-Part-1/
-- Robot-Maze-2-Part-2/
-- Robot-Maze-2-Part-3/
+Robot Maze is an iOS application where a AI robot solves the Maze
 
 ## Setup
 
-The main logic for the robot is in `ControlCenter.swift`. This is where you should direct your edits and implement functionality for the robot. Otherwise, there are no special setup instructions, just build and run!
+There are no special setup instructions, just build and run!
 
-## Maintainers
+## How To Contribute
+
+- Fork the repository to your personal account
+- Make your changes
+- Submit a pull request to this repository
+
+## Creator
 
 @GabrielleM
 
+## Contributor
 
+@maletzt
