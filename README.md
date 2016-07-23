@@ -27,3 +27,7 @@ There are no special setup instructions, just build and run!
 ## Contributor
 
 @maletzt
+
+## Special Thanks
+
+I would like to recognize the Udacity forums and classmates for the RobotMaze discussion that assisted me in completing this project.
