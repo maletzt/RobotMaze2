@@ -20,8 +20,8 @@ There are no special setup instructions, just build and run!
 - Make your changes
 - Submit a pull request to this repository
 
-## Creator
-
+## Maintainers
+@jarrodparkes
 @GabrielleM
 
 ## Contributor
